@@ -139,10 +139,11 @@ python src/rfm.py
 
 ## 👤 Auteur
 
-**[Serigne Saliou Mbacke Thiam]**
+**Serigne Saliou Mbacke Thiam**
+
 Data Analyst | Python · SQL · Visualisation
-📧 [thiamserignesaliou@gmail.com]
-🔗 [linkedin.com/in/ton-profil]
+
+Boite mail : thiamserignesaliou@gmail.com
 
 ---
 *Projet - 2026*
