@@ -85,29 +85,6 @@ Analyse_project/
 ### Segmentation RFM
 ![RFM](outputs/figures/08_rfm_complet.png)
 
----
-
-## ⚙️ Installation & Utilisation
-```bash
-# 1. Cloner le repo
-git clone https://github.com/[TON_USERNAME]/Analyse_project.git
-cd Analyse_project
-
-# 2. Créer et activer l'environnement virtuel
-python -m venv venv
-source venv/bin/activate      # Mac/Linux
-# venv\Scripts\activate       # Windows
-
-# 3. Installer les dépendances
-pip install -r requirements.txt
-
-# 4. Lancer les scripts dans l'ordre
-python src/generate_data.py
-python src/nettoyage.py
-python src/eda_kpis.py
-python src/visualisations.py
-python src/rfm.py
-```
 
 ---
 
